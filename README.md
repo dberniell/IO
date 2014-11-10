@@ -1,4 +1,4 @@
 IO
 ==
 
-IO exercise
+IO Ruby exercise
